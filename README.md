@@ -6,7 +6,9 @@ Score 120/120. Passed 2022/01/27
 
 This project is inspired by the world-famous Wolfenstein 3D game, which
 was the first FPS ever. It enable to explore ray-casting. The goal is to
-make a dynamic view inside a maze. It is a team project, I made it with other peer from the school.
+make a dynamic view inside a maze. 
+
+It is a team project, I made it with colleague/peer from the school.
 
 What is important: here I used MiniLibX - 42(21) school graphical library.  
 I have added this library to the repository (for MacOS) - it shoul be installed on machine before using programm. 
